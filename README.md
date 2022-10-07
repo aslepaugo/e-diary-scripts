@@ -39,6 +39,6 @@ remove_chastisements('Фролов Иван')
 
 Replace all 2 and 3 marks to 5
 
-```python
+```shell
 fix_marks('Фролов Иван')
 ```
